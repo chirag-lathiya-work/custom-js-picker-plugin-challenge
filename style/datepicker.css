@@ -1,0 +1,11 @@
+body {
+  padding: 100px;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
+
+.bg-lightGray {
+  background-color: rgba(0, 0, 0, .1);
+}

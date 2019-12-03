@@ -1,0 +1,23 @@
+1)  Suggested to use Visual Studio Code as IDE, because it has really excellent support of Intelij auto complete compare to other IDEs.
+
+2)  Suggested to download Plugins in the Visual Studio Code
+    -> Live Server
+    -> Auto Close Tag
+    -> Auto Complete Tag
+    -> Beautiful UI
+    -> Beautify css/sass/scss/less
+    -> Bracket Pair Colorizer
+    -> Code Spell Checker
+    -> DotENV
+    -> Flat UI
+    -> Markdown Preview Enhanced
+    -> npm
+    -> npm IntelliSense
+    -> Sass
+    -> SCSS IntelliSense
+    -> Search node_modules
+    -> SVG Viewer
+    -> TODO Highlight
+    -> Visual Studio IntelliCode
+    -> vscode-icons
+    -> Window Colors
